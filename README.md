@@ -1,1 +1,2 @@
 # odin-recipes
+# This repository is the start of my journey here using the Odin Project. I am looking to improve my skills of being a full-stack developer and re-enact as if I am at a job. I am improving my Git and Github skills as well passing commits, and I am hoping to see major progress these next couple of months!
